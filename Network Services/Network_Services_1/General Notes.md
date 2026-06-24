@@ -31,3 +31,4 @@ The FTP server may support either Active or Passive connections, or both. 
 - In a Passive FTP connection, the server opens a port and listens (passively) and the client connects to it.
 
 Standard Port for FTP - 21
+
