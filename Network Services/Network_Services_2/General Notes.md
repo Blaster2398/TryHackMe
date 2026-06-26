@@ -45,7 +45,7 @@ Where IMAP will synchronise the current inbox, with the new mail on the server, 
 
 ## How does SMTP works 
 
-![](Pasted%20image%2020260626112833.png)
+![](images/pasted-image-20260626112833.png)
 
 
 ### Steps 
